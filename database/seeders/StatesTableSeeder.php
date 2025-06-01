@@ -21,7 +21,7 @@ class StatesTableSeeder extends Seeder
         ['id' => 2, 'name' => 'Maharashtra'],
         ['id' => 3, 'name' => 'Gujarat'],
         ['id' => 4, 'name' => 'Delhi'],
-        ['id' => 5, 'name' => 'Karnataka'],
+        
 
         // Add more as needed
     ];
